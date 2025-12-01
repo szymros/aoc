@@ -1,5 +1,5 @@
-# Advent of Code 2024
+# Advent of Code
 
-Solutions for <https://adventofcode.com/2024>
+Solutions for <https://adventofcode.com/>
 To run add an input.txt file with data to the folder of the challenge
-eg to run challenge 1 add `01/input.txt` file
+eg to run challenge 1 from 2024 add `2024/01/input.txt` file
